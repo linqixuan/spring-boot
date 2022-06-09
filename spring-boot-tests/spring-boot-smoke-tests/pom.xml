@@ -107,7 +107,8 @@
 		<module>spring-boot-smoke-test-websocket-undertow</module>
 		<module>spring-boot-smoke-test-webservices</module>
 		<module>spring-boot-smoke-test-xml</module>
-	</modules>
+        <module>spring-boot-smoke-test-web</module>
+    </modules>
 	<!-- No dependencies - otherwise the smoke tests won't work if you change the
 		parent -->
 	<build>
